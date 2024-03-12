@@ -1,2 +1,2 @@
 # SocialEditor
-Project SocialEdotor CSS
+Project SocialEditor CSS
